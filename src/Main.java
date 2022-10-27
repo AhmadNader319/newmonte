@@ -10,7 +10,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
 
 
-        int n;
+        int n , m;
         System.out.println("enter a number of days  = ");
         n = input.nextInt();
 //
@@ -21,7 +21,7 @@ public class Main {
 //        ArrayList<Integer> interval_1 = new ArrayList<>(n);
 //        ArrayList<Integer> interval_2 = new ArrayList<>(n);
 //        ArrayList<Integer> interval_3 = new ArrayList<>(n);
-//
+
 //        int value1, value2, value3;
 //        int demand_values;
 //        int days_freq;
